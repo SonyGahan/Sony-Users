@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sonyairlines</groupId>
-	<artifactId>user</artifactId>
+	<artifactId>users-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>user</name>
+	<name>users-api</name>
 	<description>Demo Users Airlines for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
